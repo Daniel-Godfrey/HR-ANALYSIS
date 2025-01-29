@@ -8,7 +8,7 @@ This is a comprehensive Human Resource analysis carried out to help track, analy
 
 The analysis focuses on the following KPIs:
 
-•	 Total Employee: Displays the number of wins, draws, and losses, along with their respective percentages.
+•	 Total Employee: Displays the total numbers of employees.
 
 •	Total number of Male and Female Employee with their respective percentages. 
 
