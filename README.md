@@ -7,7 +7,7 @@ This project presents an interactive HR Analytics Dashboard built with Power BI,
 **Features**
 
 **Employee Demographics**
-Breakdown of employees by gender, marital status, and education field.
+Breakdown of employees by gender, marital status, and education field. 
 
 **Service Years Overview**
 Visual distribution of employees based on years of service (1 to 10+ years).
