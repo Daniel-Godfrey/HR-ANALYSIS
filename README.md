@@ -108,4 +108,9 @@ To explore or modify the dashboard:
 •  Recruitment and Retention Analysis
 •  Internal Reporting
 
+**Preview**
+See attached HR ANALYSIS DASHBOARD.pdf for a snapshot of the dashboard visuals.
+
+**Feedback & Contributions**
+Feel free to fork the repo, raise issues, or contribute improvements. Feedback and suggestions are welcome!
 
