@@ -2,15 +2,30 @@
 
 **Project Overview**
 
-This is a comprehensive Human Resource analysis carried out to help track, analyze, and interpret the organizational workforce data. It presents key metrics and trends in a visual and interactive format, allowing HR teams to make data-driven decisions about organization growth.
+This project presents an interactive HR Analytics Dashboard built with Power BI, designed to provide key insights into workforce data such as employee demographics, job satisfaction, department composition, service years, and job levels. It allows HR professionals to make data-driven decisions by exploring employee-related metrics at a glance.
 
-**Key Performance Indicators (KPIs)**
+**Features**
 
-The analysis focuses on the following KPIs:
+**Employee Demographics**
+Breakdown of employees by gender, marital status, and education field.
 
-•	 Total Employee: Displays the total numbers of employees.
+**Service Years Overview**
+Visual distribution of employees based on years of service (1 to 10+ years).
 
-•	Total number of Male and Female Employee with their respective percentages. 
+**Job Level Distribution**
+Count of employees across various job levels from Level 1 to Level 5.
+
+**On-Service vs. Lay-Off Status**
+Department-wise comparison of active vs. laid-off employees.
+
+**Employee Distance Status**
+Categorization based on proximity to the workplace (Very Close, Close, Very Far).
+
+**Job Satisfaction by Role**
+Insight into satisfaction levels across roles like Research Scientist, Sales Executive, Managers, etc.
+
+**Education Field Analysis**
+View of employee distribution by educational background.
 
 
 **DAX Analysis**
@@ -71,5 +86,26 @@ Lay-Off = CALCULATE([Total Employee], 'HR Analytics Data'[Retrenchment] = "Lay o
 
 •	Slicer to filter data by Department and Marital Status.
 
+
+**Getting Started**
+
+To explore or modify the dashboard:
+
+  1.  Open Power BI Desktop.
+
+  2.  Load the .pbix file.
+
+  3.  If working with raw data:
+
+      •  Import the dataset via CSV.
+
+      •  Recreate visualizations using Power BI.
+
+**Use Cases**
+•  HR Decision Making
+•  Workforce Planning
+•  Employee Satisfaction Monitoring
+•  Recruitment and Retention Analysis
+•  Internal Reporting
 
 
